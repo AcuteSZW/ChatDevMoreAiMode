@@ -1,0 +1,16 @@
+'''
+This file contains the styles for the Hello World webpage.
+'''
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f0f0f0;
+}
+#content {
+    font-size: 2em;
+    color: #333;
+}
